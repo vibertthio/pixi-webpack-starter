@@ -22,8 +22,20 @@ body {
 		position: absolute;
 		width: 100%;
 		margin: 0 auto;
-		top: 40%;
+		top: 45%;
 		text-align: center;
-		letter-spacing: 1rem;
+
+		h1 {
+			display: block;
+			letter-spacing: 1rem;
+			width: 32rem;
+			font-size: 1.8rem;
+			height: 1.8rem;
+			margin: 1rem auto;
+			padding-top: 0;
+			padding-bottom: 0;
+			background-color: black;
+		}
+
 	}
 }
